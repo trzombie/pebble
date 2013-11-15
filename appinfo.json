@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "47b71548-0b73-4264-beea-4b3fb22e195e",
+    "appKeys": {},
+    "longName": "PassTelefonen",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "PassTelefonen",
+    "companyName": "trzombie",
+    "watchapp": {
+        "watchface": false
+    },
+    "resources": {
+        "media": []
+    }
+}
